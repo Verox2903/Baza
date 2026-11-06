@@ -1,0 +1,11 @@
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\bin\Debug\Baza2.exe.config
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\bin\Debug\Baza2.exe
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\bin\Debug\Baza2.pdb
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.csproj.AssemblyReference.cache
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.Form1.resources
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.Properties.Resources.resources
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.csproj.GenerateResource.cache
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.csproj.CoreCompileInputs.cache
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.exe
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.pdb
+C:\Users\verox\Desktop\Projekty_C#\Baza2\Baza2\obj\Debug\Baza2.UserControlSubject.resources
